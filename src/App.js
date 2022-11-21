@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hi there and here
+          i was changed from feature branch
         </p>
         <a
           className="App-link"
